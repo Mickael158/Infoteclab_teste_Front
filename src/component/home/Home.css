@@ -1,0 +1,21 @@
+.home-container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #B8BAF8;
+    color: #272962;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+span {
+    position: absolute;
+    top: 2rem;
+    left: 4rem;
+    background-color: #5B5BD6;
+    padding: .5rem 1rem;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}

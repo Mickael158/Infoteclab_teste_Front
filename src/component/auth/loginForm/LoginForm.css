@@ -1,0 +1,51 @@
+form {
+    color: #272962;
+    width: fit-content;
+}
+
+.input-group-container {
+    min-width: 20rem;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: .4rem;
+}
+
+label {
+    min-width: 5rem;
+}
+
+input {
+    width: 10rem;
+    height: 2rem;
+    border-radius: 5px;
+    border: 1px solid #5B5BD6;
+    outline: #8787ff;
+}
+
+.submit-container {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 2.5rem;
+}
+
+button {
+    padding: .37rem 1.2rem;
+    font-size: 1.1rem;
+    background-color: #5B5BD6;
+    color: #FFF;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    width: 100%;
+    height: 2rem;
+    text-align: center;
+}
